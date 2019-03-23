@@ -62,3 +62,18 @@ This is REINFORCE with value functions, if using purely Monte carlo, should prob
 }
 ```
 
+## TD(λ)
+
+```
+@article{sutton1988learning,
+  title={Learning to predict by the methods of temporal differences},
+  author={Sutton, Richard S},
+  journal={Machine learning},
+  volume={3},
+  number={1},
+  pages={9--44},
+  year={1988},
+  publisher={Springer}
+}
+```
+
