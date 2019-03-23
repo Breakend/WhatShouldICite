@@ -24,7 +24,41 @@ Based on stimulus traces by Hull and memory traces by Klopf, the earliest work t
   institution={AIR FORCE CAMBRIDGE RESEARCH LABS HANSCOM AFB MA}
 }
 
+```
 
+## REINFORCE
 
+```
+@inproceedings{williams1987class,
+  title={A class of gradient-estimation algorithms for reinforcement learning in neural networks},
+  author={Williams, R},
+  booktitle={Proceedings of the International Conference on Neural Networks},
+  pages={II--601},
+  year={1987}
+}
+
+@article{williams1992simple,
+  title={Simple statistical gradient-following algorithms for connectionist reinforcement learning},
+  author={Williams, Ronald J},
+  journal={Machine learning},
+  volume={8},
+  number={3-4},
+  pages={229--256},
+  year={1992},
+  publisher={Springer}
+}
+```
+
+## Policy gradient
+
+This is REINFORCE with value functions, if using purely Monte carlo, should probably cite REINFORCE (should probably cite all three for policy gradient anyways?).
+```
+@inproceedings{sutton2000policy,
+  title={Policy gradient methods for reinforcement learning with function approximation},
+  author={Sutton, Richard S and McAllester, David A and Singh, Satinder P and Mansour, Yishay},
+  booktitle={Advances in neural information processing systems},
+  pages={1057--1063},
+  year={2000}
+}
 ```
 
