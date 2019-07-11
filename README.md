@@ -1,6 +1,23 @@
 # WhatShouldICite
 This is an informal record of original citations that I'm aware of for key terms in scientific literature. It started because I didn't know what's the original work to cite for eligibility traces and it seems important to do proper credit assignment.
 
+## Likelihood Ratio
+
+This is an interesting one, I had to dig it up and it's not available for finding easily online. 
+
+```
+@article{aleksandrov1968stochastic,
+  title={Stochastic optimization},
+  author={Aleksandrov, VM and Sysoyev, VI and SHEMENEV. VV},
+  journal={Engineering Cybernetics},
+  number={5},
+  pages={11--+},
+  year={1968}
+}
+
+```
+
+
 ## Eligibility traces
 
 Based on stimulus traces by Hull and memory traces by Klopf, the earliest work that I could find on this is that of Sutton and Barto. Probably best to cite Klopf, Sutton, and Barto.
