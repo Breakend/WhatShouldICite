@@ -45,6 +45,8 @@ Based on stimulus traces by Hull and memory traces by Klopf, the earliest work t
 
 ## REINFORCE
 
+If citing this, should likely also cite Aleksandrov for the likelihood ratio which looks essentially like REINFORCE, see Eq. 2.5 of aleksandrov1968stochastic.
+
 ```
 @inproceedings{williams1987class,
   title={A class of gradient-estimation algorithms for reinforcement learning in neural networks},
