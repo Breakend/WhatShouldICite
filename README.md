@@ -68,7 +68,7 @@ Based on stimulus traces by Hull and memory traces by Klopf, the earliest work t
 
 ## Policy gradient
 
-This is REINFORCE with value functions, if using purely Monte carlo, should probably cite REINFORCE (should probably cite all three for policy gradient anyways?).
+This is essentially REINFORCE with value functions, if using purely Monte carlo, should probably cite REINFORCE (but should probably cite all three for policy gradient anyways?).
 ```
 @inproceedings{sutton2000policy,
   title={Policy gradient methods for reinforcement learning with function approximation},
