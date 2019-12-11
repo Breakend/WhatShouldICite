@@ -1,6 +1,49 @@
 # WhatShouldICite
 This is an informal record of original citations that I'm aware of for key terms in scientific literature. It started because I didn't know what's the original work to cite for eligibility traces and it seems important to do proper credit assignment.
 
+## UCB
+
+Seems like confidence in the face of uncertainty is here:
+
+```
+@article{lai1985asymptotically,
+  title={Asymptotically efficient adaptive allocation rules},
+  author={Lai, Tze Leung and Robbins, Herbert},
+  journal={Advances in applied mathematics},
+  volume={6},
+  number={1},
+  pages={4--22},
+  year={1985},
+  publisher={Academic Press}
+}
+```
+
+Then versions of UCB popular in bandit literature are in these two:
+
+```
+
+@article{auer2002finite,
+  title={Finite-time analysis of the multiarmed bandit problem},
+  author={Auer, Peter and Cesa-Bianchi, Nicolo and Fischer, Paul},
+  journal={Machine learning},
+  volume={47},
+  number={2-3},
+  pages={235--256},
+  year={2002},
+  publisher={Springer}
+}
+
+@inproceedings{kocsis2006bandit,
+  title={Bandit based monte-carlo planning},
+  author={Kocsis, Levente and Szepesv{\'a}ri, Csaba},
+  booktitle={European conference on machine learning},
+  pages={282--293},
+  year={2006},
+  organization={Springer}
+}
+
+```
+
 ## Likelihood Ratio
 
 This is an interesting one, I had to dig it up and it's not available for finding easily online. 
